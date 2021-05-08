@@ -447,7 +447,7 @@ func startNode(ctx *cli.Context, stack *node.Node, backend ethapi.Backend) {
 		}
 		ethBackend, ok := backend.(*eth.EthAPIBackend)
 		if !ok {
-			utils.Fatalf("Ethereum service not running: %v", err)
+			utils.Fatalf("EtherPOW service not running: %v", err)
 		}
 
 		// Set the gas price to the limits from the CLI and start mining
