@@ -22,7 +22,7 @@ import "github.com/ethereum/go-ethereum/common"
 // the main EtherPOW network.
 var MainnetBootnodes = []string{
 	// EtherPOW Foundation Go Bootnodes
-	"enode://e733fb10437dd8a94c454714561f1e2c923d8f74bdfe30ba5e233b3365494de951ee833c418829f1d8914132f70b924f76485bdb757f42f7617c7c463c3d5065@95.181.155.82:30303",   // bootnode-aws-ap-southeast-1-001
+	"enode://0ee9b706aa8675981698d68a2f9eae4d92eb169a77b9331cff9e64bfe2dca8c8dc76be06db22ea4775fc9039e6be271326428269a8c139b5b602adbf0d107954@79.174.12.32:30303",   // RU-001
 }
 
 // RopstenBootnodes are the enode URLs of the P2P bootstrap nodes running on the
