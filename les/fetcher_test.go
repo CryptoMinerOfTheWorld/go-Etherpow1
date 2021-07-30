@@ -21,11 +21,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/cryptomineroftheworld/go-etherpow/consensus/ethash"
+	"github.com/cryptomineroftheworld/go-etherpow/core"
+	"github.com/cryptomineroftheworld/go-etherpow/core/rawdb"
+	"github.com/cryptomineroftheworld/go-etherpow/core/types"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/enode"
 )
 
 // verifyImportEvent verifies that one single event arrive on an import channel.

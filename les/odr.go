@@ -20,11 +20,11 @@ import (
 	"context"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/light"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/cryptomineroftheworld/go-etherpow/common/mclock"
+	"github.com/cryptomineroftheworld/go-etherpow/core"
+	"github.com/cryptomineroftheworld/go-etherpow/ethdb"
+	"github.com/cryptomineroftheworld/go-etherpow/light"
+	"github.com/cryptomineroftheworld/go-etherpow/log"
 )
 
 // LesOdr implements light.OdrBackend

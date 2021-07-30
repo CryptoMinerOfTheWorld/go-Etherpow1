@@ -23,8 +23,8 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/p2p/simulations/pipes"
+	"github.com/cryptomineroftheworld/go-etherpow/crypto"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/simulations/pipes"
 )
 
 func TestProtocolHandshake(t *testing.T) {

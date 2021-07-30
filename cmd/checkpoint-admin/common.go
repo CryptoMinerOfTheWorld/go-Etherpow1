@@ -19,15 +19,15 @@ package main
 import (
 	"strconv"
 
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/accounts/external"
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/contracts/checkpointoracle"
-	"github.com/ethereum/go-ethereum/ethclient"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/cryptomineroftheworld/go-etherpow/accounts"
+	"github.com/cryptomineroftheworld/go-etherpow/accounts/abi/bind"
+	"github.com/cryptomineroftheworld/go-etherpow/accounts/external"
+	"github.com/cryptomineroftheworld/go-etherpow/cmd/utils"
+	"github.com/cryptomineroftheworld/go-etherpow/common"
+	"github.com/cryptomineroftheworld/go-etherpow/contracts/checkpointoracle"
+	"github.com/cryptomineroftheworld/go-etherpow/ethclient"
+	"github.com/cryptomineroftheworld/go-etherpow/params"
+	"github.com/cryptomineroftheworld/go-etherpow/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 

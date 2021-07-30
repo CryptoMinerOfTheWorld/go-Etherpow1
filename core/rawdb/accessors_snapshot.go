@@ -19,9 +19,9 @@ package rawdb
 import (
 	"encoding/binary"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/cryptomineroftheworld/go-etherpow/common"
+	"github.com/cryptomineroftheworld/go-etherpow/ethdb"
+	"github.com/cryptomineroftheworld/go-etherpow/log"
 )
 
 // ReadSnapshotRoot retrieves the root of the block whose state is contained in

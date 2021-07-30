@@ -29,17 +29,17 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/p2p/discv5"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/p2p/nat"
-	"github.com/ethereum/go-ethereum/p2p/netutil"
+	"github.com/cryptomineroftheworld/go-etherpow/common"
+	"github.com/cryptomineroftheworld/go-etherpow/common/mclock"
+	"github.com/cryptomineroftheworld/go-etherpow/crypto"
+	"github.com/cryptomineroftheworld/go-etherpow/event"
+	"github.com/cryptomineroftheworld/go-etherpow/log"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/discover"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/discv5"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/enode"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/enr"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/nat"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/netutil"
 )
 
 const (

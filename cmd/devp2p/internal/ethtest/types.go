@@ -24,14 +24,14 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/forkid"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/internal/utesting"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/rlpx"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/cryptomineroftheworld/go-etherpow/common"
+	"github.com/cryptomineroftheworld/go-etherpow/core/forkid"
+	"github.com/cryptomineroftheworld/go-etherpow/core/types"
+	"github.com/cryptomineroftheworld/go-etherpow/crypto"
+	"github.com/cryptomineroftheworld/go-etherpow/internal/utesting"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/rlpx"
+	"github.com/cryptomineroftheworld/go-etherpow/rlp"
 )
 
 type Message interface {

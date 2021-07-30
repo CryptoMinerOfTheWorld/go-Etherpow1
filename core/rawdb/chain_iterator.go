@@ -21,11 +21,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/prque"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/cryptomineroftheworld/go-etherpow/common"
+	"github.com/cryptomineroftheworld/go-etherpow/common/prque"
+	"github.com/cryptomineroftheworld/go-etherpow/ethdb"
+	"github.com/cryptomineroftheworld/go-etherpow/log"
+	"github.com/cryptomineroftheworld/go-etherpow/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

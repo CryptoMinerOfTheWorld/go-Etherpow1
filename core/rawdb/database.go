@@ -24,11 +24,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/ethdb/leveldb"
-	"github.com/ethereum/go-ethereum/ethdb/memorydb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/cryptomineroftheworld/go-etherpow/common"
+	"github.com/cryptomineroftheworld/go-etherpow/ethdb"
+	"github.com/cryptomineroftheworld/go-etherpow/ethdb/leveldb"
+	"github.com/cryptomineroftheworld/go-etherpow/ethdb/memorydb"
+	"github.com/cryptomineroftheworld/go-etherpow/log"
 	"github.com/olekukonko/tablewriter"
 )
 

@@ -24,17 +24,17 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/les/flowcontrol"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/cryptomineroftheworld/go-etherpow/common"
+	"github.com/cryptomineroftheworld/go-etherpow/common/mclock"
+	"github.com/cryptomineroftheworld/go-etherpow/core/rawdb"
+	"github.com/cryptomineroftheworld/go-etherpow/core/types"
+	"github.com/cryptomineroftheworld/go-etherpow/crypto"
+	"github.com/cryptomineroftheworld/go-etherpow/les/flowcontrol"
+	"github.com/cryptomineroftheworld/go-etherpow/log"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/enode"
+	"github.com/cryptomineroftheworld/go-etherpow/params"
+	"github.com/cryptomineroftheworld/go-etherpow/rlp"
 )
 
 // requestBenchmark is an interface for different randomized request generators

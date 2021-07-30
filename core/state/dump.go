@@ -20,11 +20,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/cryptomineroftheworld/go-etherpow/common"
+	"github.com/cryptomineroftheworld/go-etherpow/common/hexutil"
+	"github.com/cryptomineroftheworld/go-etherpow/log"
+	"github.com/cryptomineroftheworld/go-etherpow/rlp"
+	"github.com/cryptomineroftheworld/go-etherpow/trie"
 )
 
 // DumpCollector interface which the state trie calls during iteration

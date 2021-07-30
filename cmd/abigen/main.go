@@ -25,13 +25,13 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common/compiler"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/internal/flags"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/cryptomineroftheworld/go-etherpow/accounts/abi"
+	"github.com/cryptomineroftheworld/go-etherpow/accounts/abi/bind"
+	"github.com/cryptomineroftheworld/go-etherpow/cmd/utils"
+	"github.com/cryptomineroftheworld/go-etherpow/common/compiler"
+	"github.com/cryptomineroftheworld/go-etherpow/crypto"
+	"github.com/cryptomineroftheworld/go-etherpow/internal/flags"
+	"github.com/cryptomineroftheworld/go-etherpow/log"
 	"gopkg.in/urfave/cli.v1"
 )
 

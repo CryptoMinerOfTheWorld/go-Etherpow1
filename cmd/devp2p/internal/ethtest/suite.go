@@ -22,10 +22,10 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/internal/utesting"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/rlpx"
+	"github.com/cryptomineroftheworld/go-etherpow/crypto"
+	"github.com/cryptomineroftheworld/go-etherpow/internal/utesting"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/enode"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/rlpx"
 	"github.com/stretchr/testify/assert"
 )
 

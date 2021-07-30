@@ -21,10 +21,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/ethereum/go-ethereum/core/forkid"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/cryptomineroftheworld/go-etherpow/core/forkid"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/enr"
+	"github.com/cryptomineroftheworld/go-etherpow/params"
+	"github.com/cryptomineroftheworld/go-etherpow/rlp"
 	"gopkg.in/urfave/cli.v1"
 )
 

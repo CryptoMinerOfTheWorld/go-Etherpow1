@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/cryptomineroftheworld/go-etherpow/metrics"
 )
 
 func init() {

@@ -22,9 +22,9 @@ import (
 	"io"
 	"sort"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/internal/debug"
-	"github.com/ethereum/go-ethereum/internal/flags"
+	"github.com/cryptomineroftheworld/go-etherpow/cmd/utils"
+	"github.com/cryptomineroftheworld/go-etherpow/internal/debug"
+	"github.com/cryptomineroftheworld/go-etherpow/internal/flags"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

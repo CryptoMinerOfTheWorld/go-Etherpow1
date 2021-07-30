@@ -26,12 +26,12 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/cryptomineroftheworld/go-etherpow/cmd/utils"
+	"github.com/cryptomineroftheworld/go-etherpow/eth"
+	"github.com/cryptomineroftheworld/go-etherpow/internal/ethapi"
+	"github.com/cryptomineroftheworld/go-etherpow/log"
+	"github.com/cryptomineroftheworld/go-etherpow/node"
+	"github.com/cryptomineroftheworld/go-etherpow/params"
 	"github.com/naoina/toml"
 )
 

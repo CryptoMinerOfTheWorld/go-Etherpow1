@@ -17,8 +17,8 @@
 package graphql
 
 import (
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/node"
+	"github.com/cryptomineroftheworld/go-etherpow/internal/ethapi"
+	"github.com/cryptomineroftheworld/go-etherpow/node"
 	"github.com/graph-gophers/graphql-go"
 	"github.com/graph-gophers/graphql-go/relay"
 )

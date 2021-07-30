@@ -17,10 +17,10 @@
 package les
 
 import (
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/dnsdisc"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/dnsdisc"
+	"github.com/cryptomineroftheworld/go-etherpow/p2p/enode"
+	"github.com/cryptomineroftheworld/go-etherpow/rlp"
 )
 
 // lesEntry is the "les" ENR entry. This is set for LES servers only.
